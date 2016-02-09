@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "algarumunicellul00brau_0129.png"; bbox 0 0 2225 3020; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 0 941 35">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 0 941 35">
+     <span class='ocr_line' id='line_1_1' title="bbox 330 0 941 35; baseline -0.005 -6"><span class='ocrx_word' id='word_1_1' title='bbox 330 0 815 35; x_wconf 31' lang='lat' dir='ltr'>*wnwvsww&#39;wtrrw</span> <span class='ocrx_word' id='word_1_2' title='bbox 864 0 877 5; x_wconf 47' lang='lat'>⁷*</span> <span class='ocrx_word' id='word_1_3' title='bbox 938 2 941 8; x_wconf 93' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 332 112">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 332 112">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 332 112; baseline 0 2908"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 332 112; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 339 352 1959 2595">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 339 352 1959 2595">
+     <span class='ocr_line' id='line_1_3' title="bbox 339 352 1959 2595; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 339 352 1959 2595; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 580 2614 1770 2681">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 580 2614 1770 2681">
+     <span class='ocr_line' id='line_1_4' title="bbox 580 2614 1770 2681; baseline 0.001 -22"><span class='ocrx_word' id='word_1_6' title='bbox 580 2614 878 2681; x_wconf 67' lang='lat' dir='ltr'>AHydrocyiium</span> <span class='ocrx_word' id='word_1_7' title='bbox 904 2625 1173 2671; x_wconf 55' lang='lat' dir='ltr'>&amp;cummanum—</span> <span class='ocrx_word' id='word_1_8' title='bbox 1208 2615 1496 2662; x_wconf 71' lang='lat' dir='ltr'>B.Pediastru1n</span> <span class='ocrx_word' id='word_1_9' title='bbox 1516 2617 1770 2678; x_wconf 55' lang='lat' dir='ltr'>{wanulatum⁴</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
